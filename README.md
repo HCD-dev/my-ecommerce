@@ -9,6 +9,7 @@ Sepet sistemi, ürün filtreleme, arama ve miktar artırma/azaltma özellikleri 
 
 
 
+|
 my-ecommerce/
 ├── backend/
 │   ├── server.js
@@ -23,7 +24,7 @@ my-ecommerce/
 ├── README.md
 ├── .gitignore
 └── .git/ (olmayabilir - Git kurduktan sonra oluşur)
- 
+ |
  
 Veritabanı Tabloları
 CREATE TABLE categories (
