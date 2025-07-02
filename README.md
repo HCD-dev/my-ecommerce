@@ -7,4 +7,4 @@ Basit bir e-ticaret uygulaması:
 
 Sepet sistemi, ürün filtreleme, arama ve miktar artırma/azaltma özellikleri var.
 
-
+Qwen AI yardımı ile yapıldı.
